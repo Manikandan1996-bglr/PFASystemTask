@@ -8,6 +8,11 @@
 import UIKit
 import FirebaseAuth
 
+// Login credentials
+// username : manager@gmail.com, password : manager
+// username : employer@gmail.com, password : employer
+// username : employee@gmail.com, password : employee
+
 class LoginVC: UIViewController {
     
     @IBOutlet weak var userName: UITextField!
