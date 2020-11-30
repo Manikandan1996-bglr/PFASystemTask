@@ -8,7 +8,8 @@
 import UIKit
 
 class TopImageCollectionCell: UICollectionViewCell {
-
+    @IBOutlet weak var bannerImage: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
