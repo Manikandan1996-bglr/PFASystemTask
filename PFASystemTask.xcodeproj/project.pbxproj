@@ -140,14 +140,14 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		D05AD2D62574BA1A00C7236C /* ViewwControllers */ = {
+		D05AD2D62574BA1A00C7236C /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 				D0703BA02574B3540077BF7E /* LoginVC.swift */,
 				D05AD2DA2574BA4B00C7236C /* ReponseVC.swift */,
 				D05AD3392574DB3100C7236C /* PopupView.swift */,
 			);
-			path = ViewwControllers;
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 		D05AD2E92574BB9E00C7236C /* Table cell XIB Files */ = {
@@ -204,7 +204,7 @@
 				D05AD32E2574CC1700C7236C /* Common View Controllers */,
 				D0703B442574ADED0077BF7E /* Main.storyboard */,
 				D05AD2E92574BB9E00C7236C /* Table cell XIB Files */,
-				D05AD2D62574BA1A00C7236C /* ViewwControllers */,
+				D05AD2D62574BA1A00C7236C /* ViewControllers */,
 				D0703B472574ADEF0077BF7E /* Assets.xcassets */,
 				D0703B492574ADEF0077BF7E /* LaunchScreen.storyboard */,
 				D0703B4C2574ADEF0077BF7E /* Info.plist */,
